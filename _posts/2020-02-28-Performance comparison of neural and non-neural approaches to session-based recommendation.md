@@ -1,4 +1,16 @@
-# Performance comparison of neural and non-neural approaches to session-based recommendation
+---
+layout:     post
+title:      阅读笔记（二）
+subtitle:    Performance comparison of neural and non-neural approaches to session-based recommendation
+date:       2020-02-28
+author:     Zbr
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - 神经网络方法
+    - 推荐系统
+    - 非神经网络方法
+---
 
 ## 背景
 
